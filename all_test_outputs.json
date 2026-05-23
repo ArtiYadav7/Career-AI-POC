@@ -1,0 +1,527 @@
+[
+    {
+        "input": {
+            "icp_type": "high_wage",
+            "name": "Neha Kulkarni",
+            "current_role": "Electronics Engineering student",
+            "target_role": "Cloud Engineer",
+            "urgency_months": 6,
+            "skills": [
+                "Python basics",
+                "Linux basics",
+                "Networking fundamentals"
+            ],
+            "language": "en",
+            "vision_profile": {
+                "current_life": "Preparing for placements without internship experience",
+                "main_blocker": "No hands-on cloud projects",
+                "vision_12mo": "Working in a cloud engineering role at a tech company",
+                "top_motivation": "Want a successful tech career and financial independence"
+            }
+        },
+        "output": {
+            "success": true,
+            "data": {
+                "identity_cards": [
+                    {
+                        "timeline": "today",
+                        "title": "Aspiring Cloud Engineer",
+                        "description": "Preparing for placements, Neha is an Electronics Engineering student. Lacking hands-on cloud projects, she feels a significant gap in her resume and practical experience.",
+                        "proof_point": "Completed academic coursework in electronics engineering and familiar with Python, Linux basics, and networking fundamentals. Currently preparing for campus placements, but without any direct cloud projects."
+                    },
+                    {
+                        "timeline": "3 months",
+                        "title": "Emerging Cloud Practitioner",
+                        "description": "Neha has started building foundational cloud knowledge, focusing on practical labs and entry-level certifications. She's actively engaged in her first hands-on cloud projects, gaining practical exposure.",
+                        "proof_point": "Obtained an entry-level cloud certification (e.g., AWS Cloud Practitioner) and deployed her first simple cloud application on a major platform. Joined an online cloud community."
+                    },
+                    {
+                        "timeline": "6 months",
+                        "title": "Junior Cloud Engineer in Training",
+                        "description": "Now confident with essential cloud services and tools, Neha has a portfolio of solid projects. She's actively applying for entry-level cloud engineering roles, showcasing her practical expertise.",
+                        "proof_point": null
+                    },
+                    {
+                        "timeline": "12 months",
+                        "title": "Cloud Engineer",
+                        "description": "Neha is successfully working in a cloud engineering role at a tech company. She's building a strong foundation for a successful career, achieving the financial independence she envisioned.",
+                        "proof_point": null
+                    }
+                ],
+                "narration_script": "Neha, an Electronics Engineering student, felt a void, preparing for placements without cloud projects. That changes now. In just three months, she'll gain crucial cloud certifications and hands-on experience. By six, a portfolio of projects will open doors. In twelve, she'll be a Cloud Engineer, building a successful tech career and achieving financial independence. Her journey begins now, transforming potential into reality, one step at a time."
+            }
+        }
+    },
+    {
+        "input": {
+            "icp_type": "high_wage",
+            "name": "Aman Verma",
+            "current_role": "Support Engineer",
+            "target_role": "Backend Developer",
+            "urgency_months": 8,
+            "skills": [
+                "Java basics",
+                "APIs",
+                "MySQL"
+            ],
+            "language": "en",
+            "vision_profile": {
+                "current_life": "Handling repetitive support tickets daily",
+                "main_blocker": "Lack of confidence in coding interviews",
+                "vision_12mo": "Building backend systems at a tech company",
+                "top_motivation": "Want career growth and better salary"
+            }
+        },
+        "output": {
+            "success": true,
+            "data": {
+                "identity_cards": [
+                    {
+                        "timeline": "today",
+                        "title": "Aman, The Support Engineer",
+                        "description": "Handling repetitive support tickets daily, Aman feels stuck. He desires a change, driven by a need for career growth and a better salary, but his main blocker is a lack of confidence in coding interviews.",
+                        "proof_point": "Daily ticket queues, limited coding opportunities, and a feeling of stagnation in his current role."
+                    },
+                    {
+                        "timeline": "3 months",
+                        "title": "Aman, The Focused Learner",
+                        "description": "Aman is actively learning advanced Java concepts, data structures, and algorithms. He's building small personal projects, applying his Java basics and API knowledge, gaining initial confidence for the transition ahead.",
+                        "proof_point": "Completed two online courses on advanced Java concepts and started a personal project integrating a new API."
+                    },
+                    {
+                        "timeline": "6 months",
+                        "title": "Aman, The Interview-Ready Dev",
+                        "description": "Aman is now consistently solving LeetCode problems, practicing mock interviews, and refining his system design skills. He's actively networking and tailoring his resume for backend developer roles, feeling much more confident.",
+                        "proof_point": null
+                    },
+                    {
+                        "timeline": "12 months",
+                        "title": "Aman, The Backend Developer",
+                        "description": "Aman is now building robust backend systems at a tech company, just as he envisioned. He enjoys challenging work, contributes significantly to projects, and has achieved the career growth and better salary he desired.",
+                        "proof_point": null
+                    }
+                ],
+                "narration_script": "Every day, Aman felt stuck, handling endless support tickets. He dreamed of building backend systems, of real career growth and a better salary, but confidence held him back. What if he could transform? In just months, he started learning, building, and gaining skills. Soon, he'll be interviewing, ready to prove his worth. Imagine, a year from now, building the future you envisioned, empowered by your own hard work. Your journey starts now."
+            }
+        }
+    },
+    {
+        "input": {
+            "icp_type": "high_wage",
+            "name": "Sneha Patil",
+            "current_role": "Mechanical Engineering student",
+            "target_role": "Data Analyst",
+            "urgency_months": 5,
+            "skills": [
+                "Excel",
+                "Python basics",
+                "Statistics"
+            ],
+            "language": "en",
+            "vision_profile": {
+                "current_life": "Confused about career direction after engineering",
+                "main_blocker": "No practical analytics projects",
+                "vision_12mo": "Working in analytics at a reputed company",
+                "top_motivation": "Want financial independence"
+            }
+        },
+        "output": {
+            "success": true,
+            "data": {
+                "identity_cards": [
+                    {
+                        "timeline": "today",
+                        "title": "Unsure Engineering Grad",
+                        "description": "Sneha, a mechanical engineering student, feels lost about her career path. Despite basic skills in Excel and Python, the lack of practical analytics projects holds her back from pursuing her data analyst dream.",
+                        "proof_point": "Recently completed engineering degree with no clear application strategy or relevant projects for data analytics roles."
+                    },
+                    {
+                        "timeline": "3 months",
+                        "title": "Project-Driven Learner",
+                        "description": "Sneha has actively started building her data analytics portfolio. She's completed two practical projects, showcasing her Excel, Python, and statistical skills, directly addressing her main blocker.",
+                        "proof_point": "Successfully built and documented 2 robust data analysis projects, demonstrating practical application of skills."
+                    },
+                    {
+                        "timeline": "6 months",
+                        "title": "Confident Applicant",
+                        "description": "With a strong portfolio, Sneha is now confidently applying for Data Analyst roles. She's refining her interview skills and networking, feeling much more prepared and focused on her goal.",
+                        "proof_point": null
+                    },
+                    {
+                        "timeline": "12 months",
+                        "title": "Empowered Data Analyst",
+                        "description": "Sneha is thriving as a Data Analyst at a reputed company, just as she envisioned. She has achieved financial independence, using her skills to drive insights and build a rewarding career.",
+                        "proof_point": null
+                    }
+                ],
+                "narration_script": "Sneha once felt lost, a mechanical engineering student unsure of her path to data analytics. But confusion doesn't define her. She yearned for financial independence, a driving force to overcome the lack of practical projects. Step by step, she built skills and confidence. Now, she's not just dreaming; she's an analyst, living her vision. Your journey can begin today, too."
+            }
+        }
+    },
+    {
+        "input": {
+            "icp_type": "high_wage",
+            "name": "Karan Mehta",
+            "current_role": "Freelance Graphic Designer",
+            "target_role": "UI/UX Designer",
+            "urgency_months": 7,
+            "skills": [
+                "Figma basics",
+                "Canva",
+                "Creativity"
+            ],
+            "language": "en",
+            "vision_profile": {
+                "current_life": "Doing inconsistent freelance work",
+                "main_blocker": "No structured portfolio",
+                "vision_12mo": "Working in a product design team",
+                "top_motivation": "Want stable creative career growth"
+            }
+        },
+        "output": {
+            "success": true,
+            "data": {
+                "identity_cards": [
+                    {
+                        "timeline": "today",
+                        "title": "The Freelance Struggle",
+                        "description": "Karan is a freelance graphic designer, currently facing inconsistent work. He's passionate but lacks a structured UI/UX portfolio, which is his biggest hurdle for a stable career transition.",
+                        "proof_point": "Inconsistent projects, no dedicated UI/UX portfolio, basic Figma skills."
+                    },
+                    {
+                        "timeline": "3 months",
+                        "title": "Building Foundations",
+                        "description": "Karan has started building his UI/UX portfolio. He's completed foundational courses in Figma and design principles, applying them to personal projects and case studies, gaining confidence.",
+                        "proof_point": "Completed 2 UI/UX case studies, enhanced Figma proficiency, active in design communities."
+                    },
+                    {
+                        "timeline": "6 months",
+                        "title": "Emerging Talent",
+                        "description": "Karan now possesses a strong, diverse UI/UX portfolio. He's actively networking and applying for junior UI/UX roles, receiving initial interviews. His skills in creativity and design are now channeled effectively.",
+                        "proof_point": null
+                    },
+                    {
+                        "timeline": "12 months",
+                        "title": "Product Design Team Member",
+                        "description": "Karan has successfully transitioned. He's now a valued member of a product design team, enjoying stable creative growth and contributing meaningfully to user-centric designs. His journey solidified his career.",
+                        "proof_point": null
+                    }
+                ],
+                "narration_script": "Karan felt stuck, his freelance work inconsistent, a structured portfolio just a dream. He longed for stable creative growth, a clear path in UI/UX design. But transformation began, each step building confidence. Now, a year later, he's thriving in a product design team, making a real impact. Your vision can become your reality too, one deliberate step at a time."
+            }
+        }
+    },
+    {
+        "input": {
+            "icp_type": "high_wage",
+            "name": "Priya Nair",
+            "current_role": "BCom Graduate",
+            "target_role": "Business Analyst",
+            "urgency_months": 6,
+            "skills": [
+                "Excel",
+                "PowerPoint",
+                "Communication"
+            ],
+            "language": "en",
+            "vision_profile": {
+                "current_life": "Preparing for jobs but feeling lost",
+                "main_blocker": "No technical or analytical experience",
+                "vision_12mo": "Working with business and data teams",
+                "top_motivation": "Want a respected professional career"
+            }
+        },
+        "output": {
+            "success": true,
+            "data": {
+                "identity_cards": [
+                    {
+                        "timeline": "today",
+                        "title": "BCom Graduate, Feeling Lost",
+                        "description": "Priya is preparing for jobs but feels lost, lacking direction. Her main blocker is no technical or analytical experience, which makes job searching daunting and uncertain for her.",
+                        "proof_point": "Recently completed BCom degree; applying for entry-level roles without success."
+                    },
+                    {
+                        "timeline": "3 months",
+                        "title": "Aspiring Business Analyst",
+                        "description": "Priya has started gaining foundational analytical skills. She's actively enrolled in courses and building projects to bridge her technical experience gap, feeling more confident about her career path.",
+                        "proof_point": "Completed a Business Analyst fundamentals course; built 2 data analysis mini-projects using Excel."
+                    },
+                    {
+                        "timeline": "6 months",
+                        "title": "Emerging Business Analyst",
+                        "description": "Priya is now actively applying her enhanced analytical and communication skills. She's engaging in networking, tailoring her resume, and confidently interviewing for entry-level Business Analyst positions, feeling ready.",
+                        "proof_point": null
+                    },
+                    {
+                        "timeline": "12 months",
+                        "title": "Respected Business Analyst",
+                        "description": "Priya is now a confident Business Analyst, actively working with business and data teams. She enjoys a respected professional career, contributing valuable insights and continuously growing in her role.",
+                        "proof_point": null
+                    }
+                ],
+                "narration_script": "Priya, feeling lost today, seeking direction. The path ahead seems daunting, yet within months, you’ll build new skills, transforming your potential. Imagine yourself in six months, confidently applying expertise. By this time next year, you’ll be the respected Business Analyst you envisioned, working with business and data teams, making an impact. Your journey starts now. Believe in your transformation."
+            }
+        }
+    },
+    {
+        "input": {
+            "icp_type": "low_wage",
+            "name": "Mahesh Pawar",
+            "current_role": "Warehouse helper",
+            "target_role": "Computer operator",
+            "urgency_months": 4,
+            "skills": [
+                "Basic smartphone use",
+                "Basic typing"
+            ],
+            "language": "hi",
+            "vision_profile": {
+                "current_life": "Long physical work hours with low income",
+                "main_blocker": "No computer knowledge and low confidence",
+                "vision_12mo": "Stable office-based job with fixed salary",
+                "top_motivation": "Better future and stability for family"
+            }
+        },
+        "output": {
+            "success": true,
+            "data": {
+                "identity_cards": [
+                    {
+                        "timeline": "today",
+                        "title": "आज: वेयरहाउस हेल्पर",
+                        "description": "महेश वेयरहाउस हेल्पर के रूप में लंबी शारीरिक मेहनत और कम आय के साथ जीवन जी रहे हैं। कंप्यूटर ज्ञान की कमी और आत्मविश्वास की कमी उन्हें आगे बढ़ने से रोक रही है।",
+                        "proof_point": "दिनभर सामान उठाना, स्मार्टफोन का सामान्य उपयोग और थोड़ी बहुत टाइपिंग कर लेते हैं।"
+                    },
+                    {
+                        "timeline": "3 months",
+                        "title": "3 महीने: कंप्यूटर की राह पर",
+                        "description": "अब महेश ने कंप्यूटर ऑपरेटर बनने की दिशा में कदम बढ़ाया है। उन्होंने बेसिक कंप्यूटर कोर्स शुरू किया है, जहां वे आत्मविश्वास के साथ नए कौशल सीख रहे हैं।",
+                        "proof_point": "रोजाना 2 घंटे कंप्यूटर अभ्यास, कीबोर्ड पर टाइपिंग स्पीड में सुधार, बेसिक ऑफिस सॉफ्टवेयर की समझ।"
+                    },
+                    {
+                        "timeline": "6 months",
+                        "title": "6 महीने: कुशल ऑपरेटर",
+                        "description": "महेश अब कंप्यूटर चलाने में काफी सहज महसूस करते हैं। उन्होंने डेटा एंट्री और ऑफिस एप्लीकेशंस में अच्छी पकड़ बना ली है, जिससे वे ऑफिस जॉब के लिए तैयार हैं।",
+                        "proof_point": null
+                    },
+                    {
+                        "timeline": "12 months",
+                        "title": "12 महीने: स्थिर भविष्य",
+                        "description": "महेश को आखिरकार एक स्थिर कंप्यूटर ऑपरेटर की नौकरी मिल गई है। अब उन्हें नियमित वेतन मिलता है, जिससे उनके परिवार को बेहतर भविष्य और स्थिरता मिल रही है।",
+                        "proof_point": null
+                    }
+                ],
+                "narration_script": "महेश की ज़िंदगी, जहाँ हर दिन मेहनत ज़्यादा थी और उम्मीदें कम। कंप्यूटर ज्ञान की कमी ने एक दीवार खड़ी कर दी थी, पर परिवार के लिए बेहतर भविष्य का सपना उन्हें रुकने नहीं देता। अब उन्होंने शुरुआत की है, सीख रहे हैं नए कौशल। कुछ ही महीनों में, वह बदलाव की कहानी लिखेंगे। यह सिर्फ एक नौकरी नहीं, यह उनके परिवार की स्थिरता और खुशियों की नींव है।"
+            }
+        }
+    },
+    {
+        "input": {
+            "icp_type": "low_wage",
+            "name": "Pooja Kumari",
+            "current_role": "Retail shop worker",
+            "target_role": "Office assistant",
+            "urgency_months": 4,
+            "skills": [
+                "Basic communication",
+                "Smartphone usage"
+            ],
+            "language": "hi",
+            "vision_profile": {
+                "current_life": "Long working hours with low salary",
+                "main_blocker": "No office work experience",
+                "vision_12mo": "Working in a stable office environment",
+                "top_motivation": "Support parents financially"
+            }
+        },
+        "output": {
+            "success": true,
+            "data": {
+                "identity_cards": [
+                    {
+                        "timeline": "today",
+                        "title": "वर्तमान स्थिति: खुदरा दुकान कर्मचारी",
+                        "description": "लंबी शिफ्टें और कम वेतन, जिससे माता-पिता को सहारा देने का मेरा सपना अधूरा लगता है। ऑफिस के काम का अनुभव न होने से भविष्य अनिश्चित लगता है।",
+                        "proof_point": "आज: सुबह 9 बजे से रात 9 बजे तक दुकान पर काम करना। मासिक बचत ना के बराबर।"
+                    },
+                    {
+                        "timeline": "3 months",
+                        "title": "प्रारंभिक बदलाव: ऑफिस असिस्टेंट की तैयारी",
+                        "description": "कम्युनिकेशन और स्मार्टफोन के इस्तेमाल से आगे बढ़कर, मैंने कंप्यूटर बेसिक्स सीखना शुरू कर दिया है। पार्ट-टाइम ऑनलाइन कोर्स करके, ऑफिस में काम के लिए खुद को तैयार कर रही हूँ।",
+                        "proof_point": "3 महीने: हर शाम 1 घंटा कंप्यूटर सीख रही हूँ। बेसिक वर्ड और एक्सेल पर काम करना सीखा।"
+                    },
+                    {
+                        "timeline": "6 months",
+                        "title": "सक्रिय प्रयास: अनुभव और आत्मविश्वास",
+                        "description": "वॉलंटियर या इंटर्नशिप करके ऑफिस का अनुभव मिल गया है। अब मैं आत्मविश्वास के साथ जॉब्स के लिए आवेदन कर रही हूँ और इंटरव्यू दे रही हूँ। माता-पिता को सहारा देने की उम्मीद बढ़ गई है।",
+                        "proof_point": null
+                    },
+                    {
+                        "timeline": "12 months",
+                        "title": "लक्ष्य प्राप्त: स्थिर ऑफिस असिस्टेंट",
+                        "description": "आज मैं एक स्थिर ऑफिस माहौल में काम कर रही हूँ। अब मेरे पास एक नियमित आय है, और मैं अपने माता-पिता को आर्थिक रूप से पूरा सहारा दे पा रही हूँ। यह नई शुरुआत है।",
+                        "proof_point": null
+                    }
+                ],
+                "narration_script": "पूजा कुमारी की कहानी, जहाँ हर दिन संघर्ष था। कम वेतन और लंबी शिफ्टें, पर दिल में एक उम्मीद थी – माता-पिता को सहारा देना। ऑफिस के अनुभव की कमी अब बाधा नहीं। उसने खुद को बदला, सीखा, और हर कदम पर आगे बढ़ी। आज वो सिर्फ एक ऑफिस असिस्टेंट नहीं, बल्कि एक बेटी है जिसने अपने सपनों और जिम्मेदारियों को पूरा किया है। यह उसकी यात्रा है, संघर्ष से सफलता तक।"
+            }
+        }
+    },
+    {
+        "input": {
+            "icp_type": "low_wage",
+            "name": "Sajid Khan",
+            "current_role": "Security guard",
+            "target_role": "Front desk executive",
+            "urgency_months": 5,
+            "skills": [
+                "Basic communication",
+                "Smartphone usage"
+            ],
+            "language": "hi",
+            "vision_profile": {
+                "current_life": "Working long night shifts with limited growth",
+                "main_blocker": "No office experience and weak computer skills",
+                "vision_12mo": "Working in a professional office environment",
+                "top_motivation": "Want a stable and respectful career"
+            }
+        },
+        "output": {
+            "success": true,
+            "data": {
+                "identity_cards": [
+                    {
+                        "timeline": "today",
+                        "title": "आज का साजिद: सुरक्षा गार्ड",
+                        "description": "लंबी रात की शिफ्ट, सीमित विकास। ऑफिस अनुभव और कंप्यूटर कौशल की कमी मुख्य बाधा है। साजिद एक स्थिर और सम्मानजनक करियर चाहता है।",
+                        "proof_point": "रात की ड्यूटी करते हुए, स्मार्टफोन पर नौकरी के विज्ञापन देखता है।"
+                    },
+                    {
+                        "timeline": "3 months",
+                        "title": "साजिद: सीख रहा फ्रंट डेस्क कौशल",
+                        "description": "अब साजिद बेसिक कंप्यूटर और ऑफिस सॉफ्टवेयर सीख रहा है। उसने ग्राहक सेवा और संचार कौशल पर भी काम किया है, छोटे-मोटे रिसेप्शन कार्य में मदद कर रहा है।",
+                        "proof_point": "स्थानीय सामुदायिक केंद्र में कंप्यूटर क्लास पूरी की, सर्टिफिकेट मिला।"
+                    },
+                    {
+                        "timeline": "6 months",
+                        "title": "साजिद: फ्रंट डेस्क सहायक",
+                        "description": "साजिद अब एक छोटे ऑफिस में फ्रंट डेस्क सहायक के रूप में पार्ट-टाइम काम कर रहा है। उसे कंप्यूटर और संचार में आत्मविश्वास है, और वह पेशेवर माहौल में ढल रहा है।",
+                        "proof_point": null
+                    },
+                    {
+                        "timeline": "12 months",
+                        "title": "साजिद: सफल फ्रंट डेस्क एग्जीक्यूटिव",
+                        "description": "साजिद अब एक प्रतिष्ठित कंपनी में पूर्णकालिक फ्रंट डेस्क एग्जीक्यूटिव है। उसे एक स्थिर और सम्मानजनक करियर मिल गया है, जिसमें विकास के अवसर भी हैं। उसका जीवन पूरी तरह बदल गया है।",
+                        "proof_point": null
+                    }
+                ],
+                "narration_script": "साजिद खान... एक सुरक्षा गार्ड, रात की लंबी शिफ्टों में, एक बेहतर कल का सपना देखता था। ऑफिस अनुभव और कमजोर कंप्यूटर कौशल उसकी सबसे बड़ी बाधा थी। पर उसके दिल में एक स्थिर और सम्मानजनक करियर पाने की चाह थी। उसने हार नहीं मानी। हर कदम, हर सीख उसे अपने लक्ष्य के करीब लाई। अब वह सिर्फ एक सपना नहीं, बल्कि एक हकीकत है। साजिद की कहानी दिखाती है कि बदलाव संभव है, अगर हम ठान लें।"
+            }
+        }
+    },
+    {
+        "input": {
+            "icp_type": "low_wage",
+            "name": "Sunita Devi",
+            "current_role": "Homemaker",
+            "target_role": "HR assistant",
+            "urgency_months": 6,
+            "skills": [
+                "Communication",
+                "Basic smartphone usage"
+            ],
+            "language": "hi",
+            "vision_profile": {
+                "current_life": "Restarting career after family responsibilities",
+                "main_blocker": "Career gap and low confidence",
+                "vision_12mo": "Working independently and earning regularly",
+                "top_motivation": "Become financially independent"
+            }
+        },
+        "output": {
+            "success": true,
+            "data": {
+                "identity_cards": [
+                    {
+                        "timeline": "today",
+                        "title": "आज की सुनीता: आत्मविश्वास ढूंढती गृहिणी",
+                        "description": "सुनीता देवी, कई सालों बाद करियर शुरू करने की सोच रही हैं। परिवार की जिम्मेदारियों ने लंबा ब्रेक दिला दिया। अब आत्मविश्वास कम है और करियर गैप एक बड़ी चुनौती है।",
+                        "proof_point": "रोज़गार के अवसरों की तलाश में स्थानीय केंद्रों पर जानकारी जुटाई।"
+                    },
+                    {
+                        "timeline": "3 months",
+                        "title": "3 महीने बाद: हुनरमंद बनने की राह पर",
+                        "description": "सुनीता ने कम्युनिकेशन और स्मार्टफोन के उपयोग में सुधार किया है। उन्होंने ऑनलाइन प्रशिक्षण पूरा किया है और अब वे नौकरी के लिए आत्मविश्वास महसूस करने लगी हैं।",
+                        "proof_point": "बेसिक HR असिस्टेंट कोर्स पूरा किया और ऑनलाइन प्रमाणपत्र प्राप्त किया।"
+                    },
+                    {
+                        "timeline": "6 months",
+                        "title": "6 महीने बाद: नई भूमिका में कदम",
+                        "description": "सुनीता ने एक छोटे ऑफिस में HR असिस्टेंट के तौर पर नौकरी शुरू कर दी है। उन्हें नई जिम्मेदारियां संभालने में अब मज़ा आ रहा है। यह आत्मविश्वास बढ़ा रहा है।",
+                        "proof_point": null
+                    },
+                    {
+                        "timeline": "12 months",
+                        "title": "12 महीने बाद: आत्मनिर्भर और सफल",
+                        "description": "सुनीता अब पूरी तरह आत्मनिर्भर हैं और नियमित रूप से कमा रही हैं। उन्होंने न केवल अपना करियर बनाया, बल्कि अपने परिवार के लिए भी एक प्रेरणा बनी हैं।",
+                        "proof_point": null
+                    }
+                ],
+                "narration_script": "यह सुनीता की कहानी है, जो अपने परिवार के बाद, फिर से अपना करियर शुरू करना चाहती थीं। आत्मविश्वास कम था, लेकिन एक नई शुरुआत की चाह ने उन्हें प्रेरित किया। उन्होंने सीखा, आगे बढ़ीं और हर चुनौती को पार किया। आज, वह केवल आत्मनिर्भर ही नहीं, बल्कि एक प्रेरणा भी हैं। उनका सफर दिखाता है कि बदलाव संभव है, बस एक कदम आगे बढ़ाने की देर है।"
+            }
+        }
+    },
+    {
+        "input": {
+            "icp_type": "low_wage",
+            "name": "Imran Sheikh",
+            "current_role": "Call center executive",
+            "target_role": "Customer support associate",
+            "urgency_months": 4,
+            "skills": [
+                "Communication",
+                "Basic computer usage"
+            ],
+            "language": "hi",
+            "vision_profile": {
+                "current_life": "Night shifts and unstable work pressure",
+                "main_blocker": "Lack of career growth opportunities",
+                "vision_12mo": "Stable company job with fixed salary",
+                "top_motivation": "Secure future for family"
+            }
+        },
+        "output": {
+            "success": true,
+            "data": {
+                "identity_cards": [
+                    {
+                        "timeline": "today",
+                        "title": "आज: संघर्ष भरा वर्तमान",
+                        "description": "इमरान, एक कॉल सेंटर एक्जीक्यूटिव के तौर पर, रातों की शिफ्ट और अस्थिर काम के दबाव से जूझ रहे हैं। परिवार के लिए बेहतर भविष्य की चाह उन्हें प्रेरित करती है, लेकिन करियर में आगे बढ़ने के अवसर नहीं दिख रहे।",
+                        "proof_point": "कॉल सेंटर में ग्राहक को संतोषजनक जवाब देते हुए, नई नौकरी के विज्ञापन देख रहे हैं।"
+                    },
+                    {
+                        "timeline": "3 months",
+                        "title": "3 महीने: नई दिशा की ओर पहला कदम",
+                        "description": "इमरान ने 'कस्टमर सपोर्ट एसोसिएट' बनने के लिए अपनी संचार और कंप्यूटर स्किल्स पर काम करना शुरू किया है। उन्होंने कुछ ऑनलाइन कोर्स और इंटरव्यू की तैयारी की है, जिससे उन्हें आत्मविश्वास महसूस हो रहा है।",
+                        "proof_point": "कस्टमर सपोर्ट एसोसिएट के लिए 2-3 इंटरव्यू दिए हैं और फीडबैक पर काम कर रहे हैं।"
+                    },
+                    {
+                        "timeline": "6 months",
+                        "title": "6 महीने: एक नई शुरुआत",
+                        "description": "इमरान ने एक स्थिर कंपनी में 'कस्टमर सपोर्ट एसोसिएट' के रूप में अपनी नई भूमिका शुरू कर दी है। अब उन्हें निश्चित वेतन और बेहतर कार्य-जीवन संतुलन मिल रहा है, जिससे वे अपने परिवार के लिए अधिक समय निकाल पाते हैं।",
+                        "proof_point": null
+                    },
+                    {
+                        "timeline": "12 months",
+                        "title": "12 महीने: सुरक्षित भविष्य की नींव",
+                        "description": "इमरान अब अपनी नई कंपनी में अच्छा प्रदर्शन कर रहे हैं और टीम के एक महत्वपूर्ण सदस्य बन गए हैं। उनका करियर अब विकास के रास्ते पर है और परिवार का भविष्य पहले से कहीं अधिक सुरक्षित और स्थिर दिख रहा है।",
+                        "proof_point": null
+                    }
+                ],
+                "narration_script": "इमरान, रातों की शिफ्ट और अनिश्चितता से थक चुके थे। परिवार के लिए सुरक्षित भविष्य उनका सपना था, पर रास्ता नहीं मिल रहा था। पर आज, उन्होंने लक्ष्य पहचाना। छोटे कदम उठाए, स्किल्स पर काम किया। कुछ ही महीनों में, नई नौकरी, स्थिर आय... 12 महीनों में, अपने परिवार के लिए उन्होंने एक सुरक्षित जीवन की नींव रखी। यह सिर्फ एक बदलाव नहीं, एक नई जिंदगी की शुरुआत है।"
+            }
+        }
+    }
+]
